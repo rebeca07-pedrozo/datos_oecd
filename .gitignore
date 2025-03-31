@@ -1,0 +1,11 @@
+# Ignorar el entorno virtual
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+__pycache__/
+venv/
+
+# Permitir archivos de Python
+!*.py
+
